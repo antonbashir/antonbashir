@@ -2,7 +2,7 @@
 
 👤 Welcome to my GitHub profile page
 
-🧑‍💻️ I am software multifunctional developer
+🧑‍💻️ I am multifunctional software developer
 
 💻 Currently working with Dart, Flutter and C
 
