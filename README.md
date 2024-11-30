@@ -4,7 +4,9 @@
 
 🧑‍💻️ I am multifunctional software developer
 
-💻 Currently working with Dart, Flutter and C
+💻 Currently working with C, C++ and LLVM
+
+☯️ Creating own language
 
 🔨 You can see my activity here
 
