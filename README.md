@@ -6,7 +6,7 @@
 
 💻 Currently working with C, C++ and LLVM
 
-☯️ Creating own language
+☯️ Creating my own language
 
 🔨 You can see my activity here
 
