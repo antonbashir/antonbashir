@@ -6,8 +6,6 @@
 
 💻 Currently working with C, C++ and LLVM
 
-☯️ Creating my own language
-
 🔨 You can see my activity here
 
 [![Anton's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=antonbashir&theme=high-contrast)]([https://github.com/sonalys](https://github.com/antonbashir)) 
