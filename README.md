@@ -4,7 +4,7 @@
 
 🧑‍💻️ I am multifunctional software developer
 
-💻 Currently working with C, C++ and LLVM
+💻 Currently working with Dart, Go, C, C++ and LLVM
 
 🔨 You can see my activity here
 
